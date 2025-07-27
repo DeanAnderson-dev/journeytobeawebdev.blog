@@ -1,0 +1,16 @@
+h1 {
+    font-weight: bold;
+}
+
+img {
+    margin-left: 2em;
+}
+
+#checkbox {
+    justify-content: center;
+}
+
+a:link {
+  background-color: gold;
+  color: green;
+}
