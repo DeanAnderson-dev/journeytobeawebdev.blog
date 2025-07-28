@@ -1,1 +1,1 @@
-alert("WELCOME - I'm on day 6")
+alert("WELCOME - I'm on day 7")
