@@ -14,3 +14,9 @@ a:link {
   background-color: gold;
   color: green;
 }
+
+.inset-bottom-left {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
