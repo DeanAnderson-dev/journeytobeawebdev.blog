@@ -1,1 +1,1 @@
-alert("WELCOME - I'm on day 7")
+alert("WELCOME - I'm on day 7 of learning web development")
