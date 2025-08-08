@@ -1,36 +1,29 @@
-h1 {
-    font-weight: bold;
-    text-align: center;
+
+
+div {
+    margin-left: 5em;
+    margin-right: 5em;
+    justify-content: center;
+    
+}
+section {
+    margin: 10px 20px 10px;
+    border: 2px solid black;
+    padding: 5 10 5;
 }
 
 
-img {
-    margin-left: 2em;
-}
-
-#checkbox {
+.container {
     justify-content: center;
 }
+
 
 a:link {
   background-color: gold;
   color: green;
 }
 
-.inset-bottom-left {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-}
 
 .contact {
     font-style: italic;
-}
-
-#post {
-
-}
-
-#contact {
-    
 }
