@@ -1,28 +1,40 @@
 
+.main {
+    margin-left: auto;
+    margin-right: auto;
+}
 
-div {
+/*div{
     margin-left: 5em;
     margin-right: 5em;
     justify-content: center;
-    
-}
+   padding-left: 10em;; 
+}*/
+
 section {
-    margin: 10px 20px 10px;
+    margin: 10px 20px 10px 20px;
     border: 2px solid black;
-    padding: 5 10 5;
+    padding-left: 10px;
 }
 
 
-.container {
+/*.container {
     justify-content: center;
-}
+}*/
 
 
 a:link {
-  background-color: gold;
-  color: green;
+    color: black;
 }
 
+a:hover {
+    color: gold;
+    background-color: grey;
+}
+
+a:active {
+    color: red;
+}
 
 .contact {
     font-style: italic;
