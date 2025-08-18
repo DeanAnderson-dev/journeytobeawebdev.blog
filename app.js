@@ -1,1 +1,0 @@
-alert("WELCOME - I'm on day 14 of learning web development")
